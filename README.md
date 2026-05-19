@@ -8,4 +8,4 @@ Tracked KMBA rules and resources, published with GitHub Pages.
 
 ## Change tracking
 
-Rules are stored as Markdown/HTML in git so changes can be reviewed with normal GitHub diffs over time. Source PDFs are kept alongside the web version for reference.
+Each rules page is the source of truth and is stored directly in git so changes can be reviewed with normal GitHub diffs over time.
