@@ -23,6 +23,7 @@ Players deemed to be advanced beyond the overall skill level of the league shall
 
 - No new inning shall start after 1 hour 55 minutes.
 - Game ends at 2 hours and 15 minutes.
+- If a game ends because stop-dead time has been reached, the score does not revert to the last completed inning. All runs accrued before the game is stopped count in the final score.
 - Games tied in score after 7+ innings will be allowed to continue if time allows.
 - Extra innings will begin with 0 outs.
 - Each team will place their last batted out at second base.
